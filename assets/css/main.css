@@ -4687,3 +4687,9 @@ input, select, textarea {
 		}
 
 	}
+
+	
+	#InLineFix h3, #InLineFix p{
+		display: inline;
+	}
+	
